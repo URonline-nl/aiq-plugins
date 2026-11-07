@@ -1,5 +1,5 @@
 === AIQ Huisstijl Afbeeldingen ===
-Contributors: mivanthi
+Contributors: URonline-nl
 Tags: images, branding, watermark, duotone, house style
 Requires at least: 6.0
 Tested up to: 6.9
