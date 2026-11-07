@@ -4,7 +4,7 @@
  * Plugin URI: https://aiq.uronline.nl
  * Description: Bakt automatisch een duotone-tint en het AIQ-logo in elke nieuw geüploade afbeelding, met instellingen in plaats van hardcoded waarden. Voortzetting van de "Huisstijl images"-snippet v2.2 uit AIQ Kernfunctionaliteit. Ondersteunt optioneel een aparte behandeling voor WooCommerce-productafbeeldingen.
  * Version: 1.1.0
- * Author: Michel van Thiel (URonline)
+ * Author: URonline (https://uronline.nl)
  * License: GPL-2.0-or-later
  * Text Domain: aiq-huisstijl
  *
